@@ -1,0 +1,9 @@
+Building LUCKCOIN
+
+See doc/readme-qt.rst for instructions on building LUCKCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LUCKCOIN.
+
+See doc/build-*.txt for instructions on building luckcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LUCKCOIN.
